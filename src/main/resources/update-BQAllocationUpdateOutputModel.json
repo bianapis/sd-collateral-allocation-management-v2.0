@@ -1,0 +1,19 @@
+{
+  "allocationUpdateActionTaskRecord" : {},
+  "allocationUpdateActionTaskReference" : "CAAUATR736778",
+  "updateResponseRecord" : {},
+  "allocationInstanceRecord" : {
+    "collateralEarmarkDuration" : "collateralEarmarkDuration",
+    "productInstanceReference" : "751446",
+    "collateralAllocationRequestResult" : "collateralAllocationRequestResult",
+    "collateralAllocationRecallAmount" : "USD 250",
+    "collateralAssetAllocationState" : "collateralAssetAllocationState",
+    "requestedAllocationRequestType" : "requestedAllocationRequestType",
+    "collateralAllocationRecallTimetable" : "collateralAllocationRecallTimetable",
+    "customerOfferReference" : "718831",
+    "collateralAllocationAmount" : "USD 250",
+    "collateralAllocationRecallResult" : "collateralAllocationRecallResult",
+    "collateralEarmarkAmount" : "USD 250",
+    "collateralAllocationDuration" : "collateralAllocationDuration"
+  }
+}

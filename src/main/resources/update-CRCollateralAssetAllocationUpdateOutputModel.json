@@ -1,0 +1,17 @@
+{
+  "collateralAssetAllocationUpdateActionTaskRecord" : {},
+  "collateralAssetAllocationUpdateActionTaskReference" : "CAAUATR707696",
+  "collateralAssetAllocationInstanceRecord" : {
+    "collateralAssetType" : "collateralAssetType",
+    "collateralAssetStatus" : "collateralAssetStatus",
+    "collateralAssetDescription" : "collateralAssetDescription",
+    "collateralAssetReference" : "751286",
+    "collateralAssetValuation" : "collateralAssetValuation",
+    "customerReference" : "792771",
+    "collateralAssetAdministrationInstanceReference" : "726990",
+    "collateralAssetValuationDate" : "09-22-2018",
+    "collateralAssetLoantoValueRatio" : "collateralAssetLoantoValueRatio",
+    "collateralAssetAllocationProfile" : "collateralAssetAllocationProfile"
+  },
+  "updateResponseRecord" : {}
+}

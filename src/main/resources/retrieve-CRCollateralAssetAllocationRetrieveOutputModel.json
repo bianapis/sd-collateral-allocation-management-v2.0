@@ -1,0 +1,27 @@
+{
+  "collateralAssetAllocationRetrieveActionTaskRecord" : {},
+  "collateralAssetAllocationInstanceRecord" : {
+    "collateralAssetType" : "collateralAssetType",
+    "collateralAssetStatus" : "collateralAssetStatus",
+    "collateralAssetDescription" : "collateralAssetDescription",
+    "collateralAssetReference" : "749232",
+    "collateralAssetValuation" : "collateralAssetValuation",
+    "customerReference" : "765783",
+    "collateralAssetAdministrationInstanceReference" : "733083",
+    "collateralAssetValuationDate" : "09-22-2018",
+    "collateralAssetLoantoValueRatio" : "collateralAssetLoantoValueRatio",
+    "collateralAssetAllocationProfile" : "collateralAssetAllocationProfile"
+  },
+  "collateralAssetAllocationRetrieveActionTaskReference" : "CAARATR794568",
+  "collateralAssetAllocationRetrieveActionResponse" : "collateralAssetAllocationRetrieveActionResponse",
+  "collateralAssetAllocationInstanceReportRecord" : {
+    "collateralAssetAllocationInstanceReport" : {},
+    "collateralAssetAllocationInstanceReportType" : "collateralAssetAllocationInstanceReportType",
+    "collateralAssetAllocationInstanceReportData" : "collateralAssetAllocationInstanceReportData"
+  },
+  "collateralAssetAllocationInstanceAnalysis" : {
+    "collateralAssetAllocationInstanceAnalysisReport" : {},
+    "collateralAssetAllocationInstanceAnalysisData" : "collateralAssetAllocationInstanceAnalysisData",
+    "collateralAssetAllocationInstanceAnalysisReportType" : "collateralAssetAllocationInstanceAnalysisReportType"
+  }
+}

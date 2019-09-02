@@ -1,0 +1,43 @@
+{
+  "allocationRetrieveActionTaskReference" : "CAARATR758213",
+  "allocationRetrieveActionTaskRecord" : {},
+  "collateralAssetAllocationInstanceRecord" : {
+    "collateralAssetType" : "collateralAssetType",
+    "collateralAssetStatus" : "collateralAssetStatus",
+    "collateralAssetDescription" : "collateralAssetDescription",
+    "collateralAssetReference" : "728128",
+    "collateralAssetValuation" : "collateralAssetValuation",
+    "customerReference" : "728393",
+    "collateralAssetAdministrationInstanceReference" : "795100",
+    "collateralAssetValuationDate" : "09-22-2018",
+    "collateralAssetLoantoValueRatio" : "collateralAssetLoantoValueRatio",
+    "collateralAssetAllocationProfile" : "collateralAssetAllocationProfile"
+  },
+  "allocationRetrieveActionResponse" : "allocationRetrieveActionResponse",
+  "allocationInstanceReport" : {
+    "allocationInstanceReportType" : "allocationInstanceReportType",
+    "allocationInstanceReport" : {},
+    "allocationInstanceReportParameters" : "allocationInstanceReportParameters",
+    "allocationInstanceReportRecord" : {}
+  },
+  "allocationInstanceRecord" : {
+    "collateralEarmarkDuration" : "collateralEarmarkDuration",
+    "productInstanceReference" : "733168",
+    "collateralAllocationRequestResult" : "collateralAllocationRequestResult",
+    "collateralAllocationRecallAmount" : "USD 250",
+    "collateralAssetAllocationState" : "collateralAssetAllocationState",
+    "requestedAllocationRequestType" : "requestedAllocationRequestType",
+    "collateralAllocationRecallTimetable" : "collateralAllocationRecallTimetable",
+    "customerOfferReference" : "789511",
+    "collateralAllocationAmount" : "USD 250",
+    "collateralAllocationRecallResult" : "collateralAllocationRecallResult",
+    "collateralEarmarkAmount" : "USD 250",
+    "collateralAllocationDuration" : "collateralAllocationDuration"
+  },
+  "allocationInstanceAnalysis" : {
+    "allocationInstanceAnalysisReportType" : "allocationInstanceAnalysisReportType",
+    "allocationInstanceAnalysisReport" : {},
+    "allocationInstanceAnalysisParameters" : "allocationInstanceAnalysisParameters",
+    "allocationInstanceAnalysisRecord" : {}
+  }
+}

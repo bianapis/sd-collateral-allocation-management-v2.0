@@ -1,0 +1,14 @@
+{
+  "allocationCaptureActionTaskRecord" : {},
+  "allocationCaptureActionTaskReference" : "ACATR751976",
+  "allocationCaptureRecordReference" : "ACRR777227",
+  "allocationInstanceRecord" : {
+    "collateralAllocationRecallAmount" : "USD 250",
+    "collateralAssetAllocationState" : "collateralAssetAllocationState",
+    "collateralAllocationRecallTimetable" : "collateralAllocationRecallTimetable",
+    "collateralAllocationAmount" : "USD 250",
+    "collateralAllocationRecallResult" : "collateralAllocationRecallResult",
+    "collateralAllocationDuration" : "collateralAllocationDuration"
+  },
+  "captureResponseRecord" : {}
+}

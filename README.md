@@ -1,0 +1,1 @@
+# Collateral Allocation Management Service Domain v2.0

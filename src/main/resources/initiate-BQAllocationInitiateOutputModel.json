@@ -1,0 +1,14 @@
+{
+  "collateralAssetAllocationInstanceRecord" : {
+    "collateralAssetAdministrationInstanceReference" : "778755"
+  },
+  "allocationInitiateActionRecord" : {},
+  "allocationInstanceStatus" : "allocationInstanceStatus",
+  "allocationInstanceReference" : "CAAIR712694",
+  "allocationInitiateActionReference" : "CAAIAR722257",
+  "allocationInstanceRecord" : {
+    "collateralAllocationRequestResult" : "collateralAllocationRequestResult",
+    "collateralAssetAllocationState" : "collateralAssetAllocationState",
+    "collateralAllocationRecallResult" : "collateralAllocationRecallResult"
+  }
+}
